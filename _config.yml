@@ -25,7 +25,7 @@ owner:
   instagramm:
   #Aboutlink = German "Impressum", provide url and caption (eg "Impressum")
   aboutlink:
-    url: tirelesswake.com
+    url: http://www.tirelesswake.com
     caption: Tireless Wake Headquarters
 
 

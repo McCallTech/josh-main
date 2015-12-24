@@ -8,7 +8,7 @@ Converted PSD to HTML/CSS by:
 Morteza Aghili  
 bio: http://mortezaaghili.github.io/  
 
-Adpated to Jekyll by [yonojoy](https://github.com/yonojoy)
+Adapted to Jekyll by [yonojoy](https://github.com/yonojoy)
 
 ## Usage
 Edit `index.md` to contain your message.
@@ -22,11 +22,10 @@ That's it.
 
 ## Installation
 
-Requires [Jekyll](http://jekyllrb.com/) 3+. 
+Requires [Jekyll](http://jekyllrb.com/) 3+.
 
 If you are creating a new Jekyll site using Skinny Bones following these steps:
 
 1. Download and unzip.
-2. Run `bundle install` to install all dependencies 
+2. Run `bundle install` to install all dependencies
 3. Update `_config.yml` and `index.md` as described above.
-

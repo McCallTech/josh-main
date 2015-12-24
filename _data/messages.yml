@@ -3,20 +3,20 @@
 
 locales:
   # English translation
-  # -------------------  
+  # -------------------
   en: &DEFAULT_EN
     Days: "Days"
     Hours: "Hours"
     Minutes: "Minutes"
     Seconds: "Seconds"
-    Learn_More: "Learn More"
-  en_US: 
+    #Learn_More: "Learn More"
+  en_US:
     <<: *DEFAULT_EN     # use English translation for en_US
-  en_UK: 
+  en_UK:
     <<: *DEFAULT_EN     # use English translation for en_UK
-    
+
   # German translation
-  # -------------------  
+  # -------------------
   de: &DEFAULT_DE
     <<: *DEFAULT_EN     # load English values as default
     Days: "Tage"
@@ -26,9 +26,9 @@ locales:
     Learn_More: "Mehr erfahren:"
   de_DE:
     <<: *DEFAULT_DE     # use German translation for de_DE
-    
+
   # French translation (TODO)
-  # -------------------     
+  # -------------------
   fr: &DEFAULT_FR
     <<: *DEFAULT_EN      # load English values as default
   fr_FR:
