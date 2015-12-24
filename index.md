@@ -1,7 +1,7 @@
 ---
 layout: home
 permalink: /
-title: "Welcome"
+title: "Welcome to Josh McCall's Website"
 excerpt: "My New Site Is Coming Soon!"
 ---
 # Website is coming soon
