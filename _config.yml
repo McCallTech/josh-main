@@ -11,8 +11,8 @@ author:
 countdown:
   theme: red
   year: 2016
-  month: 1
-  day: 15
+  month: 2
+  day: 1
   hour: 0
   minute: 0
 
@@ -36,7 +36,7 @@ sass:
 permalink: /:categories/:title/
 kramdown:
   toc_levels: 1..2
-highlighter: rouge
+highlighter: pygments
 
 
 exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json"]
